@@ -1,0 +1,104 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.first-section{
+    display: flex;
+    margin-bottom: 150px;
+}
+h1{
+    font-size:60px;
+    font-weight:600;
+    color:#575757
+}
+.first-section-paragraph{
+    font-size: 20px;
+    font-weight: 500;
+    color: #858585;
+}
+.span-text{
+    color:white;
+    background-color:#FBA24F;
+}
+
+.half-width{
+    width: 45%;
+    margin-left: 3%;
+    padding: 30px;
+
+}
+.first-section-image{
+    width: 70%;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    color: white;
+    font-size: 22px;
+    padding: 12px 25px;
+    border-radius: 30px             ;
+}
+
+
+.second-section{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 150px;
+}
+.second-section-image{
+    width:50%;
+}
+.second-section-paragraph{
+    font-size: 18px;
+    color:#18191F;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    color:#707070;
+}
+
+.third-section{
+    margin-bottom: 100px;
+}
+
+.recipies{
+    width: 400px;
+    text-align: center;
+    margin:0 33%;
+}
+h3{
+    font-size: 36px;
+    font-weight: 700;
+    color:#707070
+}
+.third-section-paragraph{
+    font-size:18px;
+    color:#252525
+}
+
+
+.fourth-section{
+    display: flex;
+}
+.food-column{
+    width: 31%;
+    margin: 1%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px grey;
+}
+.food-item-pic{
+    width:100%;
+    border-radius: 15px;
+}
+h4{
+    font-size: 28px;
+    font-weight: 800;
+}
+.food-column-paragraph{
+    font-size:18px;
+    color:#252525;
+}
