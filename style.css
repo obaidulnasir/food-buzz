@@ -11,15 +11,15 @@ h1{
     font-weight:600;
     color:#575757
 }
+.first-section-span{
+    color:#FBA24F;
+}
 .first-section-paragraph{
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 600;
     color: #858585;
 }
-.span-text{
-    color:white;
-    background-color:#FBA24F;
-}
+
 
 .half-width{
     width: 45%;
@@ -28,7 +28,7 @@ h1{
 
 }
 .first-section-image{
-    width: 70%;
+    width: 80%;
 }
 .order-button{
     text-decoration: none;
