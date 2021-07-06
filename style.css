@@ -82,6 +82,7 @@ h3{
 
 .fourth-section{
     display: flex;
+    margin-bottom: 150px;
 }
 .food-column{
     width: 31%;
@@ -101,4 +102,18 @@ h4{
 .food-column-paragraph{
     font-size:18px;
     color:#252525;
+}
+
+
+.fifth-section{
+    display:flex;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px grey;
+    margin: 150px;
+}
+.social-network{
+    text-align: center;
+    width: 31%;
+    margin: 1%;
+    padding: 20px;
 }
